@@ -1,0 +1,45 @@
+
+desktop-image: "background.png"
+title-text: " "
+title-color: "#ffffff"
+message-color: "#f2f2f2"
+
+terminal-box: "terminal_box_*.png"
+
++ boot_menu {
+  left = 5%
+  width = 90%
+  top = 10%
+  height = 80%
+  item_font = "EightBit Atari Regular 22"
+
+  item_color = "#65abff"  
+  item_height = 30
+  
+  item_spacing = 1
+  item_padding = 1
+  menu_pixmap_style = "menu_*.png"
+  selected_item_color= "#0041a3"
+  selected_item_pixmap_style = "select_*.png"
+
+  item_icon_space = 0
+
+  scrollbar = true
+  scrollbar_width = 10
+  scrollbar_thumb = "slider_*.png"
+}
+
++ progress_bar {
+  id = "__timeout__"
+  text = "@TIMEOUT_NOTIFICATION_SHORT@"
+
+  left = 20%
+  width = 60%
+  top = 85%
+
+  text_color = "red"
+  bar_style = "*"
+  highlight_style = "*"
+}
+
+

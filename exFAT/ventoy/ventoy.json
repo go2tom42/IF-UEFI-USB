@@ -1,0 +1,136 @@
+{
+    "theme":{
+        "file": "/ventoy/themes/Ventoy-Atari/theme.txt",
+        "gfxmode": "1920x1080",
+        "ventoy_color": "white",
+        "fonts":[
+            "/ventoy/themes/Ventoy-Atari/EightBit-Atari-Regular.pf2"
+        ]
+    },
+    "menu_alias":[
+        {
+            "image": "/amfv-r79-s851122.iso",
+            "alias": "A MIND FOREVER VOYAGING"
+        },
+        {
+            "image": "/ballyhoo-r99-s861014.iso",
+            "alias": "BALLYHOO"
+        },
+        {
+            "image": "/beyondzork-r60-s880610.iso",
+            "alias": "BEYOND ZORK"
+        },
+        {
+            "image": "/borderzone-r9-s871008.iso",
+            "alias": "BORDERZONE"
+        },
+        {
+            "image": "/bureaucracy-r160-s880521.iso",
+            "alias": "BUREAUCRACY"
+        },
+        {
+            "image": "/cutthroats-r25-s840917.iso",
+            "alias": "CUTTHROATS"
+        },
+        {
+            "image": "/deadline-r28-s850129.iso",
+            "alias": "DEADLINE"
+        },
+        {
+            "image": "/enchanter-r29-s860820.iso",
+            "alias": "ENCHANTER"
+        },
+        {
+            "image": "/hitchhiker-invclues-r31-s871119.iso",
+            "alias": "THE HITCHHIKER'S GUIDE TO THE GALAXY"
+        },
+        {
+            "image": "/hollywoodhijinx-r37-s861215.iso",
+            "alias": "HOLLYWOOD HIJINX"
+        },
+        {
+            "image": "/infidel-mac-r22-s840522.iso",
+            "alias": "INFIDEL"
+        },
+        {
+            "image": "/leathergoddesses-invclues-r4-s880405.iso",
+            "alias": "LEATHER GODDESSES OF PHOBOS"
+        },
+        {
+            "image": "/lurkinghorror-r221-s870918.iso",
+            "alias": "THE LURKING HORROR"
+        },
+        {
+            "image": "/moonmist-r13-s880501.iso",
+            "alias": "MOONMIST"
+        },
+        {
+            "image": "/nordandbert-r20-s870722.iso",
+            "alias": "NORD AND BERT COULDN'T MAKE HEAD OR TAIL OF IT"
+        },
+        {
+            "image": "/planetfall-r39-s880501.iso",
+            "alias": "PLANETFALL"
+        },
+        {
+            "image": "/plunderedhearts-r26-s870730.iso",
+            "alias": "PLUNDERED HEARTS"
+        },
+        {
+            "image": "/seastalker-r18-s850919.iso",
+            "alias": "SEASTALKER"
+        },
+        {
+            "image": "/sherlock-r26-s880127.iso",
+            "alias": "SHERLOCK"
+        },
+        {
+            "image": "/sorcerer-r18-s860904.iso",
+            "alias": "SORCERER"
+        },
+        {
+            "image": "/spellbreaker-r87-s860904.iso",
+            "alias": "SPELLBREAKER"
+        },
+        {
+            "image": "/starcross-r18-s830114.iso",
+            "alias": "STARCROSS"
+        },
+        {
+            "image": "/stationfall-r107-s870430.iso",
+            "alias": "STATIONFALL"
+        },
+        {
+            "image": "/suspect-i190-r18-s850222.iso",
+            "alias": "SUSPECT"
+        },
+        {
+            "image": "/suspended-alt-r8-s840521.iso",
+            "alias": "SUSPENDED: A CRYOGENIC NIGHTMARE"
+        },
+        {
+            "image": "/trinity-r15-s870628.iso",
+            "alias": "TRINITY"
+        },
+        {
+            "image": "/wishbringer-invclues-r23-s880706.iso",
+            "alias": "WISHBRINGER: THE MAGICK STONE OF DREAMS"
+        },
+        {
+            "image": "/witness-r23-s840925.iso",
+            "alias": "THE WITNESS"
+        },
+        {
+            "image": "/zork1-invclues-r52-s871125.iso",
+            "alias": "ZORK I: THE GREAT UNDERGROUND EMPIRE"
+        },
+        {
+            "image": "/zork2-r63-s860811.iso",
+            "alias": "ZORK II: THE WIZARD OF FROBOZZ"
+        },
+        {
+            "image": "/zork3-r25-s860811.iso",
+            "alias": "ZORK III: THE DUNGEON MASTER"
+        }
+    ]
+}
