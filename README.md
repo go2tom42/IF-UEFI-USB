@@ -25,6 +25,6 @@ Format with the following
 
 Now copy the files, files inside the exFAT folder goes on root the 1st partition, files in the FAT32 folder go on root the 3rd partition (the one you just made)
 
-That it, boot PC with drive
+That's it, boot PC with drive
 
 ![](./Docs/booting.png)
